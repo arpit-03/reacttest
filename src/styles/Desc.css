@@ -1,0 +1,21 @@
+.dimg {
+  width: 50vw;
+}
+.dmain {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.wmain {
+  background-color: #e2e2e2;
+  width: 50vw;
+}
+.wmaintop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wmainb {
+  text-align: center;
+}
